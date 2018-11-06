@@ -38,4 +38,44 @@
 	border-bottom:solid 2px black;
 	
 }
+.body{
+	margin:20px auto;
+	width:75%;
+	height:500px;
+	background:pink;
+}
+.body_img{
+	width:100%;
+	height:300px;
+	background-color:aqua
+}
+.body_no
+{
+	width:100%;
+	height:50px;
+	background-color: aqua;
+}
+.body_content a{
+	font-size:200px;
+	line-height:200px;
+	float:left;
+	text-align: center;
+}
+.footing{
+	width:75%;
+	height:400px;
+	background-color: indigo;
+	margin:0px auto;
+}
+.footing_content{
+	width:100%;
+	height:350px;
+	background-color: darkseagreen;
+}
+.footing_subnav{
+	width:100%;
+	height:50px;
+	background-color: black;
+}
+
 
